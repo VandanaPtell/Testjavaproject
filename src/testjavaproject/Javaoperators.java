@@ -17,8 +17,8 @@ public class Javaoperators {
 		System.out.println(divisionresult);
 		System.out.println(modulorresult);
 
-		// coparison operator
-		System.out.println("***Comarison Operator***");
+		// comparison operator
+		System.out.println("***Comparison Operator***");
 		int i = 10;
 		if (i > 10) {
 			System.out.println("Value of i is greater than 10");
